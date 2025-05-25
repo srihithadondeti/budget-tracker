@@ -1,20 +1,17 @@
 # Budget Tracker
+A simple and intuitive Flask web app to help you track income and expenses, giving you a clear overview of your personal finances.
 
-A simple Flask web app to track income and expenses...
+## 📌 Features
+- Add income and expense transactions.
+- Edit and delete existing transactions.
+- Categorize expenses for detailed tracking.
+- View total income, total expenses, and current balance.
+- Get a colorful visual breakdown of expenses by category using charts.
+- Data stored in a lightweight, local SQLite database.
+- Clean and responsive user interface built with Flask templates.
 
-It is a very simple and intuitive Budget Tracker web application that keeps the users accountable for their own personal finances by allowing them to record incomes and expenses.
-
-Features:
-    ->Enter income and expense transactions.
-    ->Edit and delete income and expense transactions.
-    ->Category expenses for further tracking.
-    ->View the total of income, expenses, and balance.
-    ->Visual breakdown of expenses by category with colorful charts.
-    ->Data is stored in a lightweight SQLite database.
-    ->Simple and stylish interface using Flask templates.
-
-Technologies Used:
-    ->Python 3
-    ->Flask (Web Framework)
-    ->SQLite (Database)
-    ->HTML, CSS, and JavaScript (Frontend)
+## 🛠 Technologies Used
+- **Python 3**
+- **Flask** – Web framework
+- **SQLite** – Embedded database
+- **HTML, CSS, JavaScript** – Frontend
